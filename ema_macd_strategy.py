@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
-import datetime as datetime
+import datetime 
 import yfinance as yf
 import warnings
 
